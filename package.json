@@ -1,11 +1,11 @@
 {
-  "name": "team-project-practice",
+  "name": "businnes-promotion-team-practice",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project-practice/",
+    "build": "vite build --base=/business-promotion-team-practice/",
     "preview": "vite preview"
   },
   "devDependencies": {
